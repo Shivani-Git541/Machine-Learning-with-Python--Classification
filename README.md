@@ -1,5 +1,4 @@
 # Machine-Learning-with-Python--Classification
-Classification models
 PROBLEM STATEMENT
 Improve Marketing Campaign of a Portuguese bank by analyzing their past marketing campaign data and recommending the kind of customers to target
 
